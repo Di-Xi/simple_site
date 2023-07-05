@@ -1,7 +1,7 @@
 ---
 layout: page
 title: simple site
-tagline: Easy websites with GitHub Pages
+tagline: Easy websites with GitHub Pages - test
 description: Minimal tutorial on making a simple website with GitHub Pages
 ---
 
